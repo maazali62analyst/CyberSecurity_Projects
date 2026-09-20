@@ -2,7 +2,7 @@
 
 A web application that encrypts and decrypts text using the **Data Encryption Standard (DES)**. Built by Maaz Ali as a university project for the Hacking Club at Grand Asian University Sialkot.
 
-**Live demo:** _add your GitHub Pages link here_
+**Live demo:** www.linkedin.com/in/maaz-ali-analyst
 
 ## Features
 - Encrypt any text with DES and get a Base64 result
