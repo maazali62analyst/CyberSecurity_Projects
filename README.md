@@ -19,5 +19,5 @@ Each project lives in its own self-contained folder with its own README. To use 
 3. Follow the "Run locally" steps in that project's README.
 
 ## Contact
-- LinkedIn: (www.linkedin.com/in/maaz-ali-analyst)
+- LinkedIn: www.linkedin.com/in/maaz-ali-analyst
 - GitHub: [maazali62analyst](https://github.com/maazali62analyst)
